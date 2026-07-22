@@ -1,12 +1,8 @@
-# jamoooooo
-My GitHub Profile
-
-James Parmenter
+# James Parmenter
 Economics. Python. SQL. Social & Environmental Care
 
 📊 Data Analytics: LSE Career Accelerator
 In 2025 I completed the LSE Data Analytics Career Accelerator, a rigorous programme covering the full analytics stack from business intelligence through to advanced predictive modelling. The repositories below document that work in Python and R.
-
 
 Repository	Focus
 LSE Data Analytics Career Accelerator	Programme overview and consolidated project work
