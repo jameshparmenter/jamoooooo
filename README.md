@@ -13,7 +13,7 @@ Economics. Python. SQL. Social & Environmental Care
     <td>Programme overview and consolidated project work</td>
   </tr>
   <tr>
-    <td><a href="">Course 1: Data Analytics for Business</a></td>
+    <td><a href="https://github.com/jameshparmenter/Course-1-Data-Analytics-for-Business.git">Course 1: Data Analytics for Business</a></td>
     <td>Business intelligence, SQL, exploratory analysis</td>
   </tr>
   <tr>
