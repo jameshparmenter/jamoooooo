@@ -21,7 +21,7 @@ Economics. Python. SQL. Social & Environmental Care
     <td>Python, Pandas, NumPy, visualisation</td>
   </tr>
     <tr>
-    <td><a href="">Course 3: Advanced Analytics for Organisational Impact</a></td>
+    <td><a href="https://github.com/jameshparmenter/Course-3-Advanced-Analytics-for-Organisational-Impact.git">Course 3: Advanced Analytics for Organisational Impact</a></td>
     <td>Machine learning, predictive modelling, Scikit-Learn</td>
   </tr>
     <tr>
