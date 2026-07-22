@@ -32,10 +32,10 @@ In 2025 I completed the LSE Data Analytics Career Accelerator, a programme cover
 
 
 ## Background
-🎓 BSC First-Class Honours | Economics | Univerity of East Anglia
-📜 LSE Data Analytics Career Accelerator: 2025
-🛠️ Languages & Tools
-Python R SQL Tableau PostgreSQL
+🎓 BSC First-Class Honours | Economics | Univerity of East Anglia <br>
+📜 LSE Data Analytics Career Accelerator: 2025<br>
+🛠️ Languages & Tools<br>
+Python R SQL Tableau PostgreSQL<br>
 
 ## Connect
 🔗 LinkedIn
