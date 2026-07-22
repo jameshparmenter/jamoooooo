@@ -17,7 +17,7 @@ Economics. Python. SQL. Social & Environmental Care
     <td>Business intelligence, SQL, exploratory analysis</td>
   </tr>
   <tr>
-    <td><a href="">Course 2: Data Analytics Using Python</a></td>
+    <td><a href="https://github.com/jameshparmenter/Course-2-Data-Analytics-Using-Python.git">Course 2: Data Analytics Using Python</a></td>
     <td>Python, Pandas, NumPy, visualisation</td>
   </tr>
     <tr>
