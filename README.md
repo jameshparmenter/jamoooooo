@@ -32,8 +32,8 @@ Economics. Python. SQL. Social & Environmental Care
 
 
 ## Background
-🎓 BSC First-Class Honours | Economics | Univerity of East Anglia <br>
-📜 LSE Data Analytics Career Accelerator: 2025<br>
+🎓 First-Class Honours | Economics BSC | Univerity of East Anglia <br>
+📜 Distinction 74% | LSE Data Analytics Career Accelerator: 2025<br>
 🛠️ Languages & Tools<br>
 Python R SQL Tableau PostgreSQL<br>
 
