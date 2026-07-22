@@ -1,7 +1,7 @@
 # James Parmenter
 Economics. Python. SQL. Social & Environmental Care
 
-# 📊 Data Analytics: LSE Career Accelerator
+## 📊 Data Analytics: LSE Career Accelerator
 <br>In 2025 I completed the LSE Data Analytics Career Accelerator, a programme covering the full analytics stack from business intelligence through to advanced predictive modelling. The repositories below document that work in Python and R.
 
 <table>
